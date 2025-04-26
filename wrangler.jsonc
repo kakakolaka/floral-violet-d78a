@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "floral-violet-d78a",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "8c8d42e4-0f8a-42c3-b9ac-ef34967610f9",
+      "database_name": "wandering-haze-0b6a-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
